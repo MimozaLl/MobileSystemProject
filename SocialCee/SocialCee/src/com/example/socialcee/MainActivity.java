@@ -10,6 +10,8 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+       //I wish I could write cout<<" Social Cee" :D
     }
 
     @Override
